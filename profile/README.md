@@ -1,5 +1,5 @@
 # Hi there 👋
-## We are a new research group at the Kirchhoff-Institute for Physics
+**We are a new research group at the Kirchhoff-Institute for Physics.**
 
 Our group explores optical quantum systems to study emergent many-body phenomena.
 
